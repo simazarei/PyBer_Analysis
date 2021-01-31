@@ -7,6 +7,8 @@ We are tasked to create a summary DataFrame of the ride-sharing data by city typ
 
 ## Results:
 
+Based on the scatter graph on _Figure 1_ , the number of rides in Urban cities are higher which cuases the chiper fare. On the other hand there are Rural cities which are provided with less number of rides which has led to more expensive fares amount. For Suburban cities we have the number of rides and fare price in between. 
+
 *Figure 1:* Ride-sharing data among the different city types
 
 ![](analysis/Fig1.png)
@@ -19,6 +21,7 @@ We are tasked to create a summary DataFrame of the ride-sharing data by city typ
 
 
 ![](analysis/Fig2.png)
+
 
 
 *Figure 3:* Total drivers per city type
@@ -40,9 +43,6 @@ We are tasked to create a summary DataFrame of the ride-sharing data by city typ
 
 
 
-There is a description of the differences in ride-sharing data among the different city types. Ride-sharing data include the total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type.
-
-
 
 ## Summary:
 
@@ -50,4 +50,5 @@ There is a description of the differences in ride-sharing data among the differe
 
 ![](analysis/PyBer_fare_summary.png)
 
-- Suburban cities 
+- Between February to March the Fare price for all city types gone up so a good approach to tackle this issue is to define a base fare for each erea which prevent the flactuation in fare rates.
+- The number of rides and drivers have direct impact on the fare price, so having more rides meaning hiring more drives which can reduces the fare price and help to attract more people and increase the income. 
