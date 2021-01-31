@@ -50,5 +50,6 @@ Based on the scatter graph on _Figure 1_ , the number of rides in Urban cities a
 
 ![](analysis/PyBer_fare_summary.png)
 
+### Suggested Solutions:
 - Between February to March the Fare price for all city types gone up so a good approach to tackle this issue is to define a base fare for each erea which prevent the flactuation in fare rates.
 - The number of rides and drivers have direct impact on the fare price, so having more rides meaning hiring more drives which can reduces the fare price and help to attract more people and increase the income. 
