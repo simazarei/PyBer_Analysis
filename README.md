@@ -16,12 +16,12 @@ We are tasked to create a summary DataFrame of the ride-sharing data by city typ
 ![](analysis/Fig6.png)
 
 
-*Figure 2:* Total drivers per city type
+*Figure 3:* Total drivers per city type
 
 ![](analysis/Fig7.png)
 
 
-*Figure 2:* Total fares per city type
+*Figure 4:* Total fares per city type
 
 ![](analysis/Fig5.png)
 
@@ -33,7 +33,9 @@ There is a description of the differences in ride-sharing data among the differe
 
 
 
-Summary:
+## Summary:
+
+*Figure 4:*
 
 ![](analysis/PyBer_fare_summary.png)
 
