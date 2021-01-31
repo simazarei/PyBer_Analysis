@@ -50,4 +50,4 @@ There is a description of the differences in ride-sharing data among the differe
 
 ![](analysis/PyBer_fare_summary.png)
 
-There is a statement summarizing three business recommendations to the CEO for addressing any disparities among the city types. 
+- Suburban cities 
