@@ -11,9 +11,14 @@ We are tasked to create a summary DataFrame of the ride-sharing data by city typ
 
 ![](analysis/Fig1.png)
 
+
+
 *Figure 2:* Total rides per city type
 
 ![](analysis/Fig6.png)
+
+
+![](analysis/Fig2.png)
 
 
 *Figure 3:* Total drivers per city type
@@ -21,9 +26,15 @@ We are tasked to create a summary DataFrame of the ride-sharing data by city typ
 ![](analysis/Fig7.png)
 
 
+![](analysis/Fig4.png)
+
+
 *Figure 4:* Total fares per city type
 
 ![](analysis/Fig5.png)
+
+
+![](analysis/Fig3.png)
 
 
 
