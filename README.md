@@ -1,6 +1,6 @@
 # PyBer Analysis
 
-## Purpose of Analysis
+## Purpose of Analysis:
 
 We are tasked to create a summary DataFrame of the ride-sharing data by city type by using Python and Pandas skills. Then, using Pandas and Matplotlib, create a multiple-line graph that shows the total weekly fares for each city type. Finally, the goal is to show how the data differs by city type and how those differences can be used by decision-makers at PyBer.
 
@@ -32,6 +32,7 @@ Based on the scatter graph on _Figure 1_ , the number of rides in Urban cities a
 ![](analysis/Fig4.png)
 
 
+
 *Figure 4:* Total fares per city type
 
 ![](analysis/Fig5.png)
@@ -41,12 +42,9 @@ Based on the scatter graph on _Figure 1_ , the number of rides in Urban cities a
 
 
 
-
-
-
 ## Summary:
 
-*Figure 4:*
+*Figure 5:*
 
 ![](analysis/PyBer_fare_summary.png)
 
