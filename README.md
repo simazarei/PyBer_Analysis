@@ -14,6 +14,9 @@ Based on the scatter graph on _Figure 1_ , the number of rides in Urban cities a
 ![](analysis/Fig1.png)
 
 
+### Total Rides by City Type
+
+According to _Figure 2_ Urban cities have 68.4% of total rides, 80.9% of total drivers, and 62.7% of total fare share. The servise is provided in Urban cities and has popularity due to the population in Urban cities so it has more rides and drivers available. In Rural areas because of difficulties and lower number of people the rides and drivers are not provided as the same so as supply is lower the price is higher.
 
 *Figure 2:* Total rides per city type
 
@@ -44,10 +47,11 @@ Based on the scatter graph on _Figure 1_ , the number of rides in Urban cities a
 
 ## Summary:
 
-*Figure 5:*
+*Figure 5:* Total Fare by City Type
 
 ![](analysis/PyBer_fare_summary.png)
 
 ### Suggested Solutions:
+
 - Between February to March the Fare price for all city types gone up so a good approach to tackle this issue is to define a base fare for each erea which prevent the flactuation in fare rates.
 - The number of rides and drivers have direct impact on the fare price, so having more rides meaning hiring more drives which can reduces the fare price and help to attract more people and increase the income. 
